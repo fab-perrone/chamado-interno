@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Chamados de Manutenção",
+  "description": "Sistema industrial de abertura e encerramento de ordens de serviço com controle de acesso para Operador e Mecânico, integrado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
